@@ -1,0 +1,742 @@
+Tloadmore
+v7
+r0
+t302562150.217581
+cCheck dependencies
+cProcessInfoPlistFile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/Info.plist" loadmore-Info.plist
+cCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib"
+cCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib"
+cCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib"
+cProcessPCH /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch.gch loadmore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o "/Users/coryw/Desktop/git/loadmore - cdw/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore" normal i386
+cGenerateDSYMFile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app.dSYM" "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore"
+cTouch "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B2B86DD00000000000000EE
+t1261143773
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026DAB0
+t1253951571
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027D510
+t1253951826
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE20000000001670E70
+t1253961442
+s23531120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C44B2770000000000000132
+t1279570551
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.h
+c000000004B1696EE00000000000001DB
+t1259771630
+s475
+i<UIKit/UIKit.h>
+
+N/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m
+c000000004B1696E50000000000000268
+t1259771621
+s616
+i"loadmoreAppDelegate.h"
+i"loadmoreViewController.h"
+
+N/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.h
+c000000004B17D00D0000000000000215
+t1259851789
+s533
+i<UIKit/UIKit.h>
+
+N/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m
+c000000004B17DD560000000000000CB6
+t1259855190
+s3254
+i"loadmoreViewController.h"
+
+N/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib
+c000000004B16D63F0000000000004C75
+t1259787839
+s19573
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app
+t1280869350
+s272
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app.dSYM
+t1280869350
+s102
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/Info.plist
+t1280869348
+s595
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/MainWindow.nib
+t1280869349
+s1076
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/PkgInfo
+t1280869348
+s8
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore
+t1280869350
+s22952
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmoreViewController.nib
+t1280869349
+s1128
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/readmorecell.nib
+t1280869349
+s1575
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList
+c000000004C5883E40000000000000198
+t1280869348
+s408
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+t1280869350
+s45652
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+t1280869350
+s48204
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+t1280869350
+s6304
+
+N/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib
+c000000004B16CBEE00000000000047C5
+t1259785198
+s18373
+
+N/Users/coryw/Desktop/git/loadmore - cdw/loadmore_Prefix.pch
+c000000004B16966F00000000000000B9
+t1259771503
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/coryw/Desktop/git/loadmore - cdw/main.m
+c000000004B16966F0000000000000164
+t1259771503
+s356
+i<UIKit/UIKit.h>
+
+N/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib
+c000000004B16BE6B00000000000045F4
+t1259781739
+s17908
+
+N/Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.h
+c000000004B1696EE00000000000001DB
+t1259771630
+s475
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m
+c000000004B1696E50000000000000268
+t1259771621
+s616
+i"loadmoreAppDelegate.h"
+i"loadmoreViewController.h"
+
+N/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.h
+c000000004B17D00D0000000000000215
+t1259851789
+s533
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m
+c000000004B17DD560000000000000CB6
+t1259855190
+s3254
+i"loadmoreViewController.h"
+
+N/Users/cwiles/Desktop/loadmore/MainWindow.xib
+c000000004B16D63F0000000000004C75
+t1259787839
+s19573
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app
+t1259855194
+s272
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM
+t1259855194
+s102
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist
+t1259772204
+s568
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/MainWindow.nib
+t1259787844
+s1483
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/PkgInfo
+t1259772204
+s8
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+t1259855194
+s25800
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmoreViewController.nib
+t1259785201
+s1567
+
+N/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/readmorecell.nib
+t1259781814
+s2154
+
+N/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList
+c000000004B16992C000000000000017D
+t1259772204
+s381
+
+N/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+t1259851918
+s38320
+
+N/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+t1259855194
+s41120
+
+N/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+t1259772205
+s5940
+
+N/Users/cwiles/Desktop/loadmore/loadmoreViewController.xib
+c000000004B16CBEE00000000000047C5
+t1259785198
+s18373
+
+N/Users/cwiles/Desktop/loadmore/loadmore_Prefix.pch
+c000000004B16966F00000000000000B9
+t1259771503
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/loadmore/main.m
+c000000004B16966F0000000000000164
+t1259771503
+s356
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/loadmore/readmorecell.xib
+c000000004B16BE6B00000000000045F4
+t1259781739
+s17908
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.h
+c000000004B1696EE00000000000001DB
+t1259771630
+s475
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m
+c000000004B1696E50000000000000268
+t1259771621
+s616
+i"loadmoreAppDelegate.h"
+i"loadmoreViewController.h"
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.h
+c000000004B17D00D0000000000000215
+t1259851789
+s533
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m
+c000000004B17DD560000000000000CB6
+t1259855190
+s3254
+i"loadmoreViewController.h"
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/MainWindow.xib
+c000000004B16D63F0000000000004C75
+t1259787839
+s19573
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app
+t1265773753
+s272
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM
+t1265773753
+s102
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist
+t1259772204
+s568
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/MainWindow.nib
+t1259787844
+s1483
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/PkgInfo
+t1259772204
+s8
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+t1265773753
+s26008
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmoreViewController.nib
+t1259785201
+s1567
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/readmorecell.nib
+t1259781814
+s2154
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList
+c000000004B65100400000000000001E6
+t1264914436
+s486
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+t1265773753
+s38388
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+t1265773753
+s41192
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+t1265773753
+s6012
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmoreViewController.xib
+c000000004B16CBEE00000000000047C5
+t1259785198
+s18373
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmore_Prefix.pch
+c000000004B16966F00000000000000B9
+t1259771503
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m
+c000000004B16966F0000000000000164
+t1259771503
+s356
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/readmorecell.xib
+c000000004B16BE6B00000000000045F4
+t1259781739
+s17908
+
+N/var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch.gch
+t1280869350
+s15232016
+
+N/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch.gch
+t1259772205
+s13034960
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-cymrtdbyojngdtbxcrimjjootyae/loadmore_Prefix.pch.gch
+t1264914436
+s13026768
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch.gch
+t1265773753
+s13034960
+
+Nloadmore-Info.plist
+c000000004B16966F000000000000038D
+t1259771503
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302562148#302562148#0(0"0(0#1#0"8607450176#0"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302562150.054938
+e302562150.126235
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+x/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m302562150#302562150#0(0"0(0#0#69"/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m8603499488#1992"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/include" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch -c "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreAppDelegate.m" -o "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287466553.310651
+e287466553.445185
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m287466553#287466553#0(0"0(0#0#95"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m4300885448#2236"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/include" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreAppDelegate.m" -o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o /Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281544718.009862
+e281544718.149583
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o
+x/Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m281544718#281544718#0(0"0(0#0#60"/Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m4300885448#1829"    cd /Users/cwiles/Desktop/loadmore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap -F/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386 -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch -c /Users/cwiles/Desktop/loadmore/Classes/loadmoreAppDelegate.m -o /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreAppDelegate.o0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302562150.104661
+e302562150.181802
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+x/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':
+o/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type
+lSLF07#2@80"Compile /Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m302562150#302562150#0(372"/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type1(22@154"Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type302562150#131#241#0(6@72"/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m281547990#52#0#52#0#0"0(0#0#72"/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m8602632928#1998"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/include" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch -c "/Users/coryw/Desktop/git/loadmore - cdw/Classes/loadmoreViewController.m" -o "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287466553.445274
+e287466553.532986
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':
+o/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type
+lSLF07#2@106"Compile /Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m287466553#287466553#0(424"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type1(22@154"Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type287466553#157#267#0(6@98"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m281547990#52#0#52#0#0"0(0#0#98"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m4300885448#2242"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/include" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/Classes/loadmoreViewController.m" -o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o /Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281547994.022424
+e281547994.190873
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o
+x/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':
+o/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type
+lSLF07#2@71"Compile /Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m281547994#281547994#0(354"/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m: In function '-[loadmoreViewController updateTableRows]':/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m:52: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type1(22@154"Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setData:' from distinct Objective-C type281547994#122#232#0(6@63"/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m281547990#52#0#52#0#0"0(0#0#63"/Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m4300885448#1835"    cd /Users/cwiles/Desktop/loadmore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap -F/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386 -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch -c /Users/cwiles/Desktop/loadmore/Classes/loadmoreViewController.m -o /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmoreViewController.o0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o "/Users/coryw/Desktop/git/loadmore - cdw/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302562150.054132
+e302562150.104563
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+x/Users/coryw/Desktop/git/loadmore - cdw/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/coryw/Desktop/git/loadmore - cdw/main.m302562150#302562150#0(0"0(0#0#46"/Users/coryw/Desktop/git/loadmore - cdw/main.m8603711520#1954"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/include" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch -c "/Users/coryw/Desktop/git/loadmore - cdw/main.m" -o "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287466553.265231
+e287466553.445013
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m287466553#287466553#0(0"0(0#0#72"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m4300885448#2198"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/include" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/main.m" -o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/loadmore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281465005.739156
+e281465005.805704
+r1
+xCompileC
+xbuild/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/loadmore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/cwiles/Desktop/loadmore/main.m281465005#281465005#0(0"0(0#0#37"/Users/cwiles/Desktop/loadmore/main.m4300885448#1791"    cd /Users/cwiles/Desktop/loadmore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap -F/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386 -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch -c /Users/cwiles/Desktop/loadmore/main.m -o /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib"
+s302562148.763209
+e302562149.173322
+r1
+xCompileXIB
+x/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302562148#302562149#0(0"0(0#0#54"/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib8608217376#580"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/MainWindow.nib" "/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib"
+s302562148.763772
+e302562149.173447
+r1
+xCompileXIB
+x/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib
+lSLF07#2@37"CompileXIB loadmoreViewController.xib302562148#302562149#0(0"0(0#0#66"/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib8607950976#604"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmoreViewController.nib" "/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib"
+s302562149.173510
+e302562149.527312
+r1
+xCompileXIB
+x/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib
+lSLF07#2@27"CompileXIB readmorecell.xib302562149#302562149#0(0"0(0#0#56"/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib8608163072#584"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/readmorecell.nib" "/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmoreViewController.xib"
+r0
+
+CCompileXIB "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/readmorecell.xib"
+r0
+
+CCompileXIB /Users/cwiles/Desktop/loadmore/MainWindow.xib
+s281480643.778780
+e281480644.086187
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/loadmore/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib281480643#281480644#0(0"0(0#0#45"/Users/cwiles/Desktop/loadmore/MainWindow.xib4300885448#459"    cd /Users/cwiles/Desktop/loadmore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/MainWindow.nib /Users/cwiles/Desktop/loadmore/MainWindow.xib0#
+
+CCompileXIB /Users/cwiles/Desktop/loadmore/loadmoreViewController.xib
+s281478001.658627
+e281478001.976288
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/loadmore/loadmoreViewController.xib
+lSLF07#2@37"CompileXIB loadmoreViewController.xib281478001#281478001#0(0"0(0#0#57"/Users/cwiles/Desktop/loadmore/loadmoreViewController.xib4300885448#483"    cd /Users/cwiles/Desktop/loadmore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmoreViewController.nib /Users/cwiles/Desktop/loadmore/loadmoreViewController.xib0#
+
+CCompileXIB /Users/cwiles/Desktop/loadmore/readmorecell.xib
+s281474614.360155
+e281474614.677407
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/loadmore/readmorecell.xib
+lSLF07#2@27"CompileXIB readmorecell.xib281474614#281474614#0(0"0(0#0#47"/Users/cwiles/Desktop/loadmore/readmorecell.xib4300885448#463"    cd /Users/cwiles/Desktop/loadmore    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/readmorecell.nib /Users/cwiles/Desktop/loadmore/readmorecell.xib0#
+
+CGenerateDSYMFile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app.dSYM" "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore"
+s302562150.202880
+e302562150.215265
+r1
+xGenerateDSYMFile
+x/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app.dSYM
+x/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/loadmore.app.dSYM build/Debug-iphonesimulator/loadmore.app/loadmore302562150#302562150#0(0"0(0#0#89"/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore8606922144#395"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore" -o "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM" "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore"
+s287466553.763797
+e287466553.801429
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/loadmore.app.dSYM build/Debug-iphonesimulator/loadmore.app/loadmore287466553#287466553#0(0"0(0#0#115"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore4300885448#473"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore" -o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM"0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+s281547994.220626
+e281547994.239652
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM
+x/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/loadmore.app.dSYM build/Debug-iphonesimulator/loadmore.app/loadmore281547994#281547994#0(0"0(0#0#80"/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore4300885448#362"    cd /Users/cwiles/Desktop/loadmore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore -o /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app.dSYM0#
+
+CLd "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore" normal i386
+s302562150.181955
+e302562150.202795
+r1
+xLd
+x/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore
+xnormal
+xi386
+lSLF07#2@94"Link /Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore302562150#302562150#0(0"0(0#0#0"8608169504#920"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" "-F/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" -filelist "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework CoreGraphics -framework Foundation -o "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/loadmore"0#
+
+CLd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore" normal i386
+s287466553.533136
+e287466553.763688
+r1
+xLd
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+xnormal
+xi386
+lSLF07#2@120"Link /Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore287466553#287466553#0(0"0(0#0#0"4300885448#1014"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" -filelist "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore"0#
+
+CLd /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore normal i386
+s281547994.190972
+e281547994.220516
+r1
+xLd
+x/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore
+xnormal
+xi386
+lSLF07#2@85"Link /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore281547994#281547994#0(0"0(0#0#0"4300885448#829"    cd /Users/cwiles/Desktop/loadmore    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/Objects-normal/i386/loadmore.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/loadmore0#
+
+CProcessInfoPlistFile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/Info.plist" loadmore-Info.plist
+s302562148.750840
+e302562148.763131
+r1
+xProcessInfoPlistFile
+x/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/Info.plist
+xloadmore-Info.plist
+lSLF07#2@27"Process loadmore-Info.plist302562148#302562148#0(0"0(0#0#59"/Users/coryw/Desktop/git/loadmore - cdw/loadmore-Info.plist7090148158703691776#491"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility loadmore-Info.plist -genpkginfo "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist" loadmore-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist loadmore-Info.plist
+s281465004.419238
+e281465004.426269
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist
+xloadmore-Info.plist
+lSLF07#2@27"Process loadmore-Info.plist281465004#281465004#0(0"0(0#0#50"/Users/cwiles/Desktop/loadmore/loadmore-Info.plist29555366482477168#458"    cd /Users/cwiles/Desktop/loadmore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility loadmore-Info.plist -genpkginfo /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app/Info.plist0#
+
+CProcessPCH /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch.gch loadmore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302562149.527418
+e302562150.054045
+r1
+xProcessPCH
+x/var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch.gch
+xloadmore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile loadmore_Prefix.pch302562149#302562150#0(0"0(0#0#59"/Users/coryw/Desktop/git/loadmore - cdw/loadmore_Prefix.pch8604545568#1842"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/include" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/coryw/Desktop/git/loadmore - cdw/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -c "/Users/coryw/Desktop/git/loadmore - cdw/loadmore_Prefix.pch" -o /var/folders/gk/gk7imV+WFM0m-0lUybhU6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-dbyebxmqnlydkzdtlmvbkkxfbxcj/loadmore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch.gch loadmore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281465004.807335
+e281465005.739046
+r1
+xProcessPCH
+x/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch.gch
+xloadmore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile loadmore_Prefix.pch281465004#281465005#0(0"0(0#0#50"/Users/cwiles/Desktop/loadmore/loadmore_Prefix.pch4300885448#1690"    cd /Users/cwiles/Desktop/loadmore    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap -iquote /Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap -F/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386 -I/Users/cwiles/Desktop/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources -c /Users/cwiles/Desktop/loadmore/loadmore_Prefix.pch -o /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/loadmore_Prefix-fngwgzwxicsxjmfggiwzormdnacr/loadmore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-cymrtdbyojngdtbxcrimjjootyae/loadmore_Prefix.pch.gch loadmore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286607236.121303
+e286607236.924035
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-cymrtdbyojngdtbxcrimjjootyae/loadmore_Prefix.pch.gch
+xloadmore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile loadmore_Prefix.pch286607236#286607236#0(0"0(0#0#85"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmore_Prefix.pch4300903632#2060"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/include" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmore_Prefix.pch" -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-cymrtdbyojngdtbxcrimjjootyae/loadmore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch.gch loadmore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287466552.526542
+e287466553.265119
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch.gch
+xloadmore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile loadmore_Prefix.pch287466552#287466553#0(0"0(0#0#85"/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmore_Prefix.pch4300885448#2060"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-generated-files.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-own-target-headers.hmap" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-all-target-headers.hmap" -iquote "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/loadmore-project-headers.hmap" "-F/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/include" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources/i386" "-I/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/loadmore.build/Debug-iphonesimulator/loadmore.build/DerivedSources" -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/loadmore_Prefix.pch" -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/loadmore_Prefix-exyvzjilxtptnnfadnryrkxqnapl/loadmore_Prefix.pch.gch0#
+
+CTouch "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app"
+s302562150.215336
+e302562150.217535
+r1
+xTouch
+x/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app
+lSLF07#2@86"Touch /Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app302562150#302562150#0(0"0(0#0#0"8604320480#285"    cd "/Users/coryw/Desktop/git/loadmore - cdw"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug-iphonesimulator/loadmore.app"0#
+
+CTouch "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app"
+s287466553.801525
+e287466553.804450
+r1
+xTouch
+x/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app
+lSLF07#2@112"Touch /Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app287466553#287466553#0(0"0(0#0#0"4300885448#337"    cd "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/cwiles/Dropbox/Personal/iPhone/Mobile Sample Apps/loadmore/build/Debug-iphonesimulator/loadmore.app"0#
+
+CTouch /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app
+s281547994.239744
+e281547994.242713
+r1
+xTouch
+x/Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app
+lSLF07#2@77"Touch /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app281547994#281547994#0(0"0(0#0#0"4300885448#263"    cd /Users/cwiles/Desktop/loadmore    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/loadmore/build/Debug-iphonesimulator/loadmore.app0#
+

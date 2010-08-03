@@ -1,0 +1,63 @@
+Tloadmore
+v7
+r1
+
+N/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib
+c000000004B16D63F0000000000004C75
+t1259787839
+s19573
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/Info.plist
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/Resources/loadmoreViewController.nib
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/Resources/readmorecell.nib
+t2
+s0
+
+N/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib
+c000000004B16CBEE00000000000047C5
+t1259785198
+s18373
+
+N/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib
+c000000004B16BE6B00000000000045F4
+t1259781739
+s17908
+
+Nloadmore-Info.plist
+c000000004B16966F000000000000038D
+t1259771503
+s909
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/loadmoreViewController.xib"
+r0
+
+CCompileXIB "/Users/coryw/Desktop/git/loadmore - cdw/readmorecell.xib"
+r0
+
+CProcessInfoPlistFile "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app/Contents/Info.plist" loadmore-Info.plist
+r0
+
+CTouch "/Users/coryw/Desktop/git/loadmore - cdw/build/Debug/loadmore.app"
+r0
+
